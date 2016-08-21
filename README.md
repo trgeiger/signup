@@ -1,1 +1,3 @@
-# signup assignment\nFor summer of code
+# Signup Page Assignment
+
+For Summer of Code web development unit
